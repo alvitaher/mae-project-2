@@ -4,7 +4,9 @@ body{
     height: 1200px;
     width: 1500px;
     background-size: 100%;
+    
 }
+
 
 h1{
     text-align: center;
@@ -34,4 +36,8 @@ li{
 .title{
     color: springgreen;
     font-weight: bolder;
+}
+
+body, html {
+    cursor: url("image/cursorcoffee.jpg"), progress;
 }
